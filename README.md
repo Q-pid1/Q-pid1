@@ -1,4 +1,4 @@
-<h2>Hey, let me find some <img src="[https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png](https://drive.google.com/file/d/1wwD-e6ZWyDVqKq5t8GRzezta9R9uhqZf/view?usp=drive_link)" height="23" alt="ladybug"></h2>
+<h2>Hey, let me find some <img src="https://static.vecteezy.com/system/resources/previews/017/224/421/non_2x/bug-icon-suitable-for-a-wide-range-of-digital-creative-projects-free-vector.jpg" height="23" alt="ladybug"></h2>
 
 My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
 
