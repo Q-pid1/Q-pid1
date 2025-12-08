@@ -3,7 +3,7 @@
 My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
 
 <h2>A Few Quick Facts</h2>
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" alt="QA testing gif">
+<img align="right" src="https://drive.google.com/file/d/1wwD-e6ZWyDVqKq5t8GRzezta9R9uhqZf/view?usp=sharing" height="245" alt="QA testing gif">
 <ul>
   <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
   <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
