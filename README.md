@@ -1,6 +1,6 @@
 <h2> Hi there 👋</h2>
 
-My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
+My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.</p>
 
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://hsbi.hse.ru/upload/career/professions/2020/worktester1.gif" height="245" alt="QA testing gif">
