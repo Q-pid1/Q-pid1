@@ -6,7 +6,7 @@ My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my 
 <img align="right" src="https://hsbi.hse.ru/upload/career/professions/2020/worktester1.gif" height="245" alt="QA testing gif">
 <ul>
   <li>🚀 Beginner tester with practical training.</li>
-  <li>🎓 Completed an intensive course covering testing theory (ISTQB), test design techniques, and test analysis.</li>
+  <li>🎓 CCompleted an intensive course, theory of testing (ISTQB), test design techniques, test analysis.</li>
   <li>📋 Documentation: Checklists, test cases, bug reports in Jira/TestRail.</li>
   <li>🤝 Ready to join projects, participate in teamwork, and solve real-world tasks.</li>
   <li>✨ Goal: To become part of a team, find defects, and contribute to product quality.</li>
