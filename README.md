@@ -41,7 +41,7 @@ My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
 <p align="center">
   <a href=""><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href=""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="https://t.me/qpid6"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
   <a href=""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
 
