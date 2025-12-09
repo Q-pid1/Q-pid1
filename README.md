@@ -1,4 +1,4 @@
-<h2>Hey, let me find some <img src="https://avatars.mds.yandex.net/i?id=ec8f7f1a33979d6a9a4b358cbbf829be-1992980-images-thumbs&n=13" height="23" alt="ladybug"></h2>
+<h2>Hey, let me find some <img src="https://image.pngaaa.com/599/5067599-middle.png" height="23" alt="ladybug"></h2>
 
 My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
 
