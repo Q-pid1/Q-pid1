@@ -1,4 +1,4 @@
-<h2Hi there 👋</h2>
+<h2> Hi there 👋</h2>
 
 My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
 
