@@ -1,4 +1,4 @@
-<h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
+<h2Hi there 👋</h2>
 
 My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
 
@@ -36,6 +36,7 @@ My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my 
 <h2>Test Artifacts</h2>
 <ul>
   <li><a href="https://github.com/Q-pid1/API-Testing">API Testing</a> – REST and SOAP via Postman</li> 
+   <li><a href="">The list will be updated.</li> 
 </ul>
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
