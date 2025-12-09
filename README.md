@@ -1,15 +1,15 @@
-<h2>Hey, let me find some <img src="https://avatars.mds.yandex.net/i?id=8cc34b140b32bba8720b3f9b4d3b06fc_l-9244753-images-thumbs&n=13" height="23" alt="ladybug"></h2>
+<h2>Hey, let me find some <img src="https://otvet.imgsmail.ru/download/63bed80754a65201e0788d69bef79fa1_i-3554.jpg" height="23" alt="ladybug"></h2>
 
 My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.y.</p>
 
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://hsbi.hse.ru/upload/career/professions/2020/worktester1.gif" height="245" alt="QA testing gif">
 <ul>
-  <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
-  <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
-  <li>📖 I enjoy mentoring junior specialists and co-designed a course to guide support staff into QA roles.</li>
-  <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.</li>
-  <li>🏎️ Fun facts: I love Formula 1 and pop culture.</li>
+  <li>🚀 Beginner tester with practical training.</li>
+  <li>🎓 Completed an intensive course covering testing theory (ISTQB), test design techniques, and test analysis.</li>
+  <li>📋 Documentation: Checklists, test cases, bug reports in Jira/TestRail.</li>
+  <li>🤝 Ready to join projects, participate in teamwork, and solve real-world tasks.</li>
+  <li>✨ Goal: To become part of a team, find defects, and contribute to product quality.</li>
 </ul>
 
 <h2>Some Tools I Use</h2>
