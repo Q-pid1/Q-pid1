@@ -34,9 +34,9 @@ My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my 
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/Q-pid1/API-Testing">Webshop Testing</a> – Test design and documentation</li> 
+  <li><a href="https://github.com/Q-pid1/Webshop-Testing-">Webshop Testing</a> – Test design and documentation</li> 
   <li><a href="https://github.com/Q-pid1/API-Testing">API Testing</a> – REST and SOAP via Postman</li> 
-   <li><a href="">The list will be updated.</li> 
+   <li><a href=""> The list will be updated.</li> 
 </ul>
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
