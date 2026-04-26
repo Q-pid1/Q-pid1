@@ -3,7 +3,7 @@
 <p>My name is Rustam, and I am a Software QA Engineer. This portfolio showcases my work in testing web and mobile applications, developed through courses and personal projects.</p>
 
 <h2>A Few Quick Facts</h2>
-<img align="right" src="https://drive.google.com/file/d/1jFOG9pxdaAlO8mu57KRrZ_fhZt_SRJxP/view?usp=sharing" height="245" alt="QA testing gif">
+<img align="right" src="https://drive.google.com/file/d/1jFOG9pxdaAlO8mu57KRrZ_fhZt_SRJxP/view?usp=sharing" height="245" alt="QA testing">
 <ul>
   <li>🚀 Beginner tester with practical training.</li>
   <li>🎓 CCompleted an intensive course, theory of testing (ISTQB), test design techniques, test analysis.</li>
