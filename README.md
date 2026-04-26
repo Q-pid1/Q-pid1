@@ -43,9 +43,16 @@
 </ul>
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
+
 <p align="center">
-  <a href=""><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/qpid6"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href=""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/qpid6" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" alt="Telegram"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Gmail"/>
+  </a>
 </p>
 
